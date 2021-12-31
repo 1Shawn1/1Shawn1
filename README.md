@@ -1,7 +1,7 @@
 ### Hi I'm Shawn, I don't upload much to GitHub but if you want help with a script or something then dm me on Discord: Shawn#2000
-![](https://komarev.com/ghpvc/?username=Fluxxx222)
+![](https://komarev.com/ghpvc/?username=1Shawn1)
 <!--
-**Fluxxx222/Fluxxx222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**1Shawn1/1Shawn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
